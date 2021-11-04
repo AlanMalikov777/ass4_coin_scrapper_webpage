@@ -3,7 +3,7 @@ Program that scraps information about specific cryptocurrenct in web page. Data 
 # Team
 Asanuly Alikhan - 
 
-Malikov Alan - 
+Malikov Alan - Clown Gay
 
 Kurmangali Sanzhar - working with web page design
 
