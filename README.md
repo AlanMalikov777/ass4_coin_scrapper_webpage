@@ -1,6 +1,8 @@
 # ASS4_coin_scrapper_webpage
 Program that scraps information about specific cryptocurrenct in web page. Data will be saved in PostgreSQL table.
 # Team
+
+All changes was done by one account.
 Asanuly Alikhan - main role in creating web-server.py and news.py 
 
 Malikov Alan - connection to database and test folder creating, supporting to Alikhan with news.py
